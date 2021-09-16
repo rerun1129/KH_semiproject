@@ -2,7 +2,7 @@ public class HelloGit {
 
     public static void main(String[] args) {
 
-        System.out.println("안녕하세요 제발되라...!!!!!!!!!!!!!");
+        System.out.println("안녕하세요 마스터입니다.");
 
     }
 }
