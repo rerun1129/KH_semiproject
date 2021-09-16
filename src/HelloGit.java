@@ -2,7 +2,7 @@ public class HelloGit {
 
     public static void main(String[] args) {
 
-        System.out.println("¾È³çÇÏ¼¼¿ä Á¦¹ß...");
+        System.out.println("ì•ˆë…•í•˜ì„¸ìš” ì œë°œë˜ë¼...!");
 
 
     }
